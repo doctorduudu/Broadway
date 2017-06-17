@@ -46,3 +46,10 @@ a{
   font-size: 18px;
   color: white;
 }
+
+
+.onlineform {
+  height: 600px;
+  width: 60%;
+  border: 3px solid black;
+}
